@@ -16,10 +16,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: natacomercial11@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="gmail.sgv.png">
     </a>
-    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/nat%C3%A3-sales-460482256/)">
-      <img width="25" src="linkedin.svg">
+    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/nat%C3%A3-sales-460482256/)](https://www.linkedin.com/in/nat%C3%A3-sales-460482256/)">
+      <img width="25" src="linkedin.sgv.png">
     </a>
 </div>
   
